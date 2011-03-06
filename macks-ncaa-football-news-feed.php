@@ -282,7 +282,7 @@ function macks_ncaa_football_news_feed_plugin_page() { ?>
 	<div class="inside">
 
 <!-- -->
-<img src="../wp-content/plugins/macks-ncaa-football-news-feed/mack.JPG" width="91" height="64" alt="Mack" longdesc="http://www.wordpress.org" />
+<img src="../wp-content/plugins/macks-ncaa-college-football-news-feed/mack.JPG" width="91" height="64" alt="Mack" longdesc="http://www.wordpress.org" />
 <p>You can use this page to set the width and height of your feed box, plus select how many articles you wish to display. It is recommended to use the default settings, width=162 and height=290, for best performance. The default number of articles is 3. You can choose up to 6.</p>
 <br />
 <strong>Adjust Feed Width</strong> 
