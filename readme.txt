@@ -3,7 +3,7 @@ Contributors: mackbincroft
 Donate link: http://www.jawer.org
 Tags: news, sports news, ncaa news, ncaa football, football news, college football, college football news, college bowl, bowl games, news feed football, football, ncaa
 Requires at least: 2.2.1
-Tested up to: 3.1
+Tested up to: 3.2.1
 Stable tag: 0.5
 
 Lists the Latest News from the NCAA Football.
