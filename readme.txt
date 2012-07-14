@@ -35,8 +35,6 @@ A variety of news is available, including:
 <li>All-American Candidates</li>
 </ul>
 
-This plugin can be used pretty much where you want, including some <a href="http://www.sportsbetting3.com" target="_blank">college football betting</a> [dot com] websites, as long as they state legal mumbo jumbo for USA blog readers. There are many places that have <a href="http://www.sportsbetting3.com/preakness_stakes_betting.php" target="_blank">Preakness Betting</a> [dot com], plus, I suppose you could put it on a <a href="http://www.sportsbetting3.com/march_madness_betting.php" target="_blank">March Madness betting</a> [dot com] website too, with the same thing I mentioned above. Email me for any help with this.
-
 Thanks,
 
 Mack Bincroft
